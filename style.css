@@ -16,7 +16,7 @@ a:hover{
 
 .navbar {
     
-    font-family: Quicksand;
+    font-family: 'Jost', sans-serif;
     font-size: 3vw;
     white-space: nowrap;
     
@@ -27,7 +27,7 @@ a:hover{
 
 
 .container {
-    font-family: Quicksand;
+    font-family: 'Jost', sans-serif;
     text-align: center;
 }
     
@@ -45,7 +45,7 @@ a:hover{
 
 .col-lg-4{
     
-    padding: 20px;
+    
 }
 body {
 
