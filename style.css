@@ -68,7 +68,7 @@ body {
     
     
 }
-.navbar-brand:hover {
+.navbar-left:hover {
     position: relative; top:-3px;
     opacity: 50%
   
@@ -86,9 +86,7 @@ body {
     
 }
 
-div {
-    
-}
+
 
 
 
@@ -267,7 +265,7 @@ img:hover{
 }
 
 .biography {
-    font-size:11vw;
+    font-size:9vw;
     text-align: left;
     line-height: 15vw;
 }
