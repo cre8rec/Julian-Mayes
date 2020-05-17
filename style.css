@@ -1,0 +1,339 @@
+
+
+a{
+    text-decoration: none;
+    color: black;
+    
+
+}
+
+a:hover{
+    text-decoration: none;
+    
+    
+}
+
+
+.navbar {
+    
+    font-family: Quicksand;
+    
+    
+}
+
+
+
+
+.container {
+    font-family: Quicksand;
+    text-align: center;
+}
+    
+
+
+    
+    
+}
+
+.butt {
+    
+    justify-content: center;
+    
+}
+
+.col-lg-4{
+    
+    padding: 20px;
+}
+body {
+
+}
+
+.container {
+   
+}
+
+
+    
+}
+
+.navbar-brand {
+    font-size: 
+    margin:0;
+    
+    
+    
+}
+.navbar-brand:hover {
+    position: relative; top:-3px;
+    opacity: 50%
+  
+}
+
+.nav-item {
+    margin-left: 5px;
+}
+
+.nav-item:hover {
+    position: relative; 
+    top: -3px;
+    opacity: 50%;
+    
+}
+
+div {
+    
+}
+
+
+
+
+.section1 {
+    display:flex;
+    flex-wrap: wrap;
+    align-items: center;
+    margin-top:80px;
+    margin-bottom:80px;
+  
+
+}
+
+.jumbo1 {
+    background-color: white;
+    color:black;
+    margin-top:0;
+ 
+    
+}
+
+.jumbo2 {
+    background-color: #000000;
+    background-size:cover;
+    padding: 50px;
+    color:white
+    
+
+    
+
+}
+
+.headernavbar {
+    padding: 0 0 3vw 0;
+}
+
+
+
+.bio {
+    margin: 50px;
+    margin-left: 100px;
+    margin-right: 100px;
+  
+}
+
+.1 {
+
+    
+}
+
+h {
+
+
+}
+
+.navbar-nav {
+    
+}
+
+
+
+.display-4 {
+    margin: 20px;
+    
+    
+}
+
+.motto {
+    
+}
+
+.wrapper {
+  
+}
+
+.card {
+  
+}
+
+.col-lg-3 {
+    display: flex;
+}
+
+.black-card {
+    background-color: white;
+    border: 1px black;
+    color: white;
+    padding: 30px;
+   
+}
+
+.white-card {
+    
+}
+
+.photo {
+    padding: 50px
+        
+}
+
+.img-fluid {
+    border-radius: 1vw
+}
+
+.pic1 {
+height: 300px
+
+}
+
+.section2 {
+    display: flex;
+    flex-wrap: wrap;
+
+    align-items: center;
+
+}
+
+.Skills {
+    margin: 50px;
+}
+
+.Freelance {
+    margin: 50px;
+}
+
+.section {
+    
+}
+
+.section-2 {
+    display: flex;
+    justify-content: center;
+}
+
+.white-card-1 {
+
+}
+
+.projects {
+    margin: 3vw;
+
+    
+}
+
+.project:hover {
+    position: relative;
+    top:10px;
+    
+}
+
+.overlay {
+    margin: 1vw 0 2vw 0;
+}
+
+img:hover{
+    
+}
+
+.carousel-control-next {
+    
+}
+
+.carousel-control-next-icon {
+    background-color: black;
+    
+}
+
+.carousel-control-prev-icon {
+    background-color: black;
+}
+
+.carousel {
+    margin: 5vw 0 5vw 0;
+    
+}
+
+.biography {
+    font-size:5vw;
+    text-align: left;
+}
+
+
+
+.designer {
+    font-family: 'Dancing Script', cursive;
+    color: black;
+    font-size: 8vw;
+    
+}
+.designer:hover{
+    color: #b0d5f5;
+}
+
+.developer {
+    
+    font-family: 'DM Mono', monospace;
+    font-size: 7vw;
+}
+
+.developer:hover{
+    color: forestgreen;
+}
+
+.icon {
+    width:40px;
+    margin: 10vw
+}
+
+.contact {
+    text-align: center;
+   
+}
+
+.row {
+    margin: 5vw 0 10vw 0;
+}
+
+.touch {
+    font-family: 'Pacifico', cursive;
+    font-size: 7vw;
+}
+
+.touch:hover { 
+    color: #ffcf74;
+    
+}
+
+.canada {
+        font-family: 'Anton', sans-serif;
+    font-size: 7vw;
+}
+
+.canada:hover {
+    color: red;
+}
+
+.julian {
+    font-family: 'Lato', sans-serif;
+    font-size: 7vw;
+}
+.julian:hover{
+    color: aquamarine;
+}
+
+.photography {
+        font-family: 'Abril Fatface', cursive;
+    font-size: 7vw;
+}
+
+.photography:hover{
+    color: #00ffff;
+}
