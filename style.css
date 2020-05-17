@@ -17,6 +17,8 @@ a:hover{
 .navbar {
     
     font-family: Quicksand;
+    font-size: 3vw;
+    white-space: nowrap;
     
     
 }
@@ -57,9 +59,11 @@ body {
     
 }
 
-.navbar-brand {
-    font-size: 
+.navbar-left{
+  
     margin:0;
+    
+   
     
     
     
@@ -72,6 +76,7 @@ body {
 
 .nav-item {
     margin-left: 5px;
+    font-size: 1.5vw;
 }
 
 .nav-item:hover {
@@ -291,7 +296,15 @@ img:hover{
 
 .icon {
     width:40px;
-    margin: 10vw
+    margin: 10vw;
+
+    
+}
+
+icon:hover{
+        position: relative;
+        top: 1vx;
+    background-color: aqua; color: aliceblue;
 }
 
 .contact {
@@ -337,4 +350,8 @@ img:hover{
 
 .photography:hover{
     color: #00ffff;
+}
+
+.logo {
+    
 }
